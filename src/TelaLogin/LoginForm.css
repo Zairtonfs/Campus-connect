@@ -1,0 +1,33 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-image: url('https://static.vecteezy.com/ti/vetor-gratis/p1/13817314-efeito-de-movimento-abstrato-de-velocidade-da-luz-fundo-widescreen-ilustracaoial-vetor.jpg');
+  }
+  .container {
+    padding: 4vw;
+    text-align: center;
+    background-color: rgba(233, 235, 236, 0.055);
+    backdrop-filter: blur(50px);
+    box-shadow: 5px 5px 8px rgba(15, 0, 0, 0.349);
+    width: 40vw;
+    height: 30vw;
+    border-radius: 10%;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+  }
+  
+  img {
+    margin-top: 2vw;
+    height: 9vw;
+    width: 9vw;
+  }
+  
+  h1 {
+    color: #E0EBEC;
+  }
+  
